@@ -1,0 +1,14 @@
+name: CustomWeapons
+version: '1.0.0'
+main: com.example.customweapons.CustomWeaponsPlugin
+api-version: '1.21'
+author: You
+description: ''
+commands:
+  weapon:
+    description: weapon command
+    usage: /weapon
+permissions:
+  customweapons.give:
+    description: Allows /weapon give
+    default: op

@@ -1,0 +1,10 @@
+katana:
+  # Total hit damage = 1 + attack-damage (netherite sword is +7)
+  attack-damage: 6.0
+  # Attacks per second = 4 + attack-speed (vanilla sword is -2.4)
+  attack-speed: -2.0
+  dash-distance: 8.0
+  dash-damage: 8.0
+  cooldown-seconds: 8
+  # Resource pack hook: float 1 and string "katana"
+  custom-model-data: 1
